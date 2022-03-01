@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/iverilog/New folder/mimasblink/blinkTB_isim_beh.exe" -prj "C:/iverilog/New folder/mimasblink/blinkTB_beh.prj" "work.blinkTB" "work.glbl" 

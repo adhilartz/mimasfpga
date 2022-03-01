@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\iverilog\New folder\inqbeFPGAblink\blink.ncd
+OUTFILE=C:\iverilog\New folder\inqbeFPGAblink\blink.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=C:\iverilog\New folder\inqbeFPGAblink
+LICENSE=WebPack
+USER_INFO=210833846_0_0_075

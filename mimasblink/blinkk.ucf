@@ -1,0 +1,3 @@
+
+NET "clk"            LOC="V10"  | IOSTANDARD=LVTTL | PERIOD=31.25ns;               # CLK
+NET "led"            LOC="N16"  | IOSTANDARD=LVTTL;                                # A0

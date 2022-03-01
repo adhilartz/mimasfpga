@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Dec 03 11:22:19 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "led" LOCATE = SITE "N16" LEVEL 1;
+NET "clk_BUFGP/IBUFG" PERIOD = 31.25 ns HIGH 50%;
+SCHEMATIC END;
+

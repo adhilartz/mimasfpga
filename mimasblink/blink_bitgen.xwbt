@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\iverilog\New folder\mimasblink\blink.ncd
+OUTFILE=C:\iverilog\New folder\mimasblink\blink.bit
+FAMILY=Spartan6
+PART=xc6slx9-3csg324
+WORKINGDIR=C:\iverilog\New folder\mimasblink
+LICENSE=WebPack
+USER_INFO=210833846_0_0_075
